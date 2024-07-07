@@ -1,0 +1,118 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: white;
+    text-align: center;
+    color: black;
+    padding-top: 10px;
+    padding-bottom: 1px;
+}
+header nav ul li{
+    display: inline;
+    margin-left: 8px;
+    margin-right: -2.5px;
+    margin-inline: 5px;
+    margin-right: 8px;
+    margin-left: 3px;
+}
+.hero{
+    padding-left: 98px;
+    padding-top: 30px;
+}
+.separation{
+    height: 7px;
+    background-color: rgb(219, 244, 236);
+}
+.ht{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    max-width: 70vw;
+    margin: auto;
+    color: black(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+}
+.ht1{
+    display: flex;
+    justify-content: center;
+    max-width: 70vw;
+    margin: auto;
+    color: black(255, 255, 255);
+    justify-content: center;
+    align-items: center;
+}
+.yo{
+    justify-content: center;
+    border-radius: 2px;
+    padding-left: 358px;
+}
+.hera{
+    padding-left: 220px;
+    padding-top: 10px;
+}
+.ph{
+    background-color: black;
+}
+.hn{
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    max-width: 70vw;
+    margin: auto;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+.ht3{
+    display: flex;
+    justify-content: center;
+    max-width: 70vw;
+    margin: auto;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+.n{
+    display: flex;
+    justify-content: center;
+    max-width: 70vw;
+    margin: auto;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+.hia{
+    padding-left: 360px;
+    padding-top: 10px;
+}
+footer{
+    color: black;
+    background-color: white;
+    max-width: 60vw;
+    margin: auto;
+    padding: 14px;
+}
+footer .question{
+    padding: 34px 0;
+}
+.footer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    color: black;
+}
+.footer a{
+    font-size: 14px;
+    color: black;
+}
+.footer-item{
+    display: flex;
+    flex-direction: column;
+    gap: 23px;
+}
+.lock{
+    background-color: white;
+}
